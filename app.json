@@ -1,0 +1,12 @@
+{
+  "name": "NuGo",
+  "displayName": "NuGo",
+  "expo": {
+    "name": "NuGo",
+    "slug": "NuGo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
